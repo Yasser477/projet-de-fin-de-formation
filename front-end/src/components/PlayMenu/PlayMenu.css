@@ -1,0 +1,72 @@
+/* #black{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 50px;
+    left: 800px;
+}
+
+#blue{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 50px;
+    left: 400px;
+    
+}
+
+#green{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 50px;
+    left: 600px;
+}
+
+#brown{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 50px;
+    left: 1000px;
+} */
+
+#MidContainer{
+
+    width: 700px;
+    border-radius: 37px;
+    height: 300px;
+    position: absolute;
+    top: 250px;
+    left: 400px;
+    background-color: #9D00FF;
+
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+
+  #names{
+
+    color: white;
+    font-family:"euro";
+  }
+  
+
+  @font-face {
+    font-family: 'euro';
+    src: url(../../assets/neuropolitical_rg.otf);
+}
+
+#prfilePics{
+    margin-top: 50px;
+    margin-left: 350px;
+}
